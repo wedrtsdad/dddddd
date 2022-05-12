@@ -1,0 +1,21 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Indie Flower', cursive;
+    color: aliceblue;
+}
+
+#d1{
+    background-color: rgba(0, 0, 0, 0.698);
+    text-align: center;
+    height: 50px;
+}
+
+.btn{
+    background-color: rgba(0, 0, 0, 0.698);
+    border-color: rgba(0, 0, 0, 0);
+}
+
+canvas{
+    background-color: aliceblue;
+}
